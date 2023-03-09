@@ -1,0 +1,16 @@
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.buttons {
+  position: fixed;
+  padding: 16px;
+  display: flex;
+  gap: 16px;
+}
